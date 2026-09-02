@@ -1,0 +1,1 @@
+name = "C:\temp\happyday\gsc_1\g_2.py"
