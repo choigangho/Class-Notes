@@ -15,6 +15,7 @@ class-notes/
 ## 루틴
 ```
 cd ~/class-notes
+git pull
 git add .
 git commit -m "오늘 공부한 핵심 내용"
 git push
